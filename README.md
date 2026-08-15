@@ -2,7 +2,7 @@
 
 Sistema de análisis de sentimiento desarrollado para la asignatura **Taller II** (Ingeniería en Inteligencia Artificial, UNSTA), en el marco de un caso propuesto por la empresa ficticia **Strata Analytics**. El objetivo fue construir un pipeline completo de PLN capaz de clasificar reseñas de clientes como **positivas**, **negativas** o **neutrales**.
 
-> 📄 Informe completo: [`docs/INFORME_FINAL_-_TALLER_II.pdf`](docs/INFORME_FINAL_-_TALLER_II.pdf)
+> 📄 Informe completo: [`INFORME_FINAL_-_TALLER_II.pdf`](INFORME_FINAL_-_TALLER_II.pdf)
 
 ## Equipo
 
@@ -64,4 +64,4 @@ El pipeline se organiza en scripts secuenciales, uno por etapa del proceso:
 
 ## Referencias
 
-Ver bibliografía completa en el [informe final](docs/INFORME_FINAL_-_TALLER_II.pdf).
+Ver bibliografía completa en el [informe final](INFORME_FINAL_-_TALLER_II.pdf).
